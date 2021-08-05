@@ -11,8 +11,8 @@ async def start(_, message: Message):
         f"""Ben **{bn}** !!
 Grubunuzun sesli sohbetinde müzik çalmanıza izin 😉
 Şu anda desteklediğim komutlar şunlardır:
-⚜️ /oynat - __Yanıtlanan ses dosyasını veya YouTube videosunu bağlantı üzerinden çalar.__
-⚜️ /durdur - __Sesli Sohbet Müziğini Duraklat.__
+⚜️ /oynat - __Yanıtlanan ses dosyasını ve ya YouTube videosunun bağlantısı üzerinden çalar.__
+⚜️ /durdur - __Sesli Sohbet Müzikini Duraklat.__
 ⚜️ /devam - __Sesli Sohbet Müziğine Devam Et.__
 ⚜️ /atla - __Sesli Sohbette Çalan Geçerli Müziği Atlar.__
 ⚜️ /bitir - __Sırayı temizler ve Sesli Sohbet Müziği'ni sona erdirir.__
@@ -24,10 +24,10 @@ Grubunuzun sesli sohbetinde müzik çalmanıza izin 😉
             [
                 [
                     InlineKeyboardButton(
-                        "Grup 💬", url="https://t.me/lunabotnews"
+                        "Grup 💬", url="https://t.me/badmafiaaz"
                     ),
                     InlineKeyboardButton(
-                        "Kanal 📣", url="https://t.me/lunabotnews"
+                        "Kanal 📣", url="https://t.me/cennetqoxulumm"
                     )
                 ]
             ]
