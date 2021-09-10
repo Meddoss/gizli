@@ -24,10 +24,10 @@ Grubunuzun sesli sohbetinde müzik çalmanıza izin 😉
             [
                 [
                     InlineKeyboardButton(
-                        "Grup 💬", url="https://t.me/badmafiaaz"
+                        "Grup 💬", url="https://t.me/smailesi"
                     ),
                     InlineKeyboardButton(
-                        "Kanal 📣", url="https://t.me/cennetqoxulumm"
+                        "Kanal 📣", url="https://t.me/kizilsancakbilgi"
                     )
                 ]
             ]
